@@ -5,7 +5,7 @@ Código relacionado a las lecciones del canal de youtube de la playlist Javascri
 https://github.com/LaMenteOcupada/JavaScript-playlist
 
 # Capítulo 1
-01 # ¿Por qué deberías aprender JavaScript?
-02 # Cómo preparar el entorno de desarrollo
-03 # ¿Qué es un servidor web y como funciona?
-04 # Código,ficheros y recursos de la serie
+01 # ¿Por qué deberías aprender JavaScript? <br>
+02 # Cómo preparar el entorno de desarrollo <br>
+03 # ¿Qué es un servidor web y como funciona? <br>
+04 # Código,ficheros y recursos de la serie <br>
