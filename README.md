@@ -12,3 +12,4 @@ https://github.com/LaMenteOcupada/JavaScript-playlist
 
 # Capítulo 2
 05 # Cómo añadir Añadir JavaScript a una Web <br>
+06 # La consola del Navegador(Chrome Dev Tools) <br>
